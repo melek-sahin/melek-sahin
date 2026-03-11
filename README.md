@@ -1,27 +1,32 @@
 # Hi, I'm Melek Şahin 
 
-Data Analyst with a background in software development and e-commerce analytics.  
-I enjoy turning data into insights that support business decisions.
+Data Analyst with experience in **software development, e-commerce analytics, and data science**.
 
-## Skills
+I enjoy transforming data into insights that support **business decisions and commercial growth**.
 
-- Python
-- SQL
-- Power BI
-- Machine Learning
-- Data Analysis
-- Data Visualization
+---
 
-## Featured Projects
+## 🔧 Tools & Technologies
 
-🔹 **House Price Prediction – Streamlit App**  
-Machine learning based web application that predicts house prices using user input features.
+Python | SQL | Power BI | Machine Learning | Data Visualization | Streamlit
 
-More projects coming soon:
-- HR Attrition Analytics Dashboard
-- E-commerce Analytics Project
+---
 
-## Connect with me
+## 📊 Featured Projects
 
-LinkedIn: https://linkedin.com/in/sahin-melek
-GitHub: https://github.com/melek-sahin
+### 🏡 House Price Prediction
+Machine learning web app predicting house prices using user input features.  
+Built with **Python, Scikit-learn and Streamlit**
+
+### 📉 HR Attrition Analytics
+Power BI dashboard analyzing employee attrition drivers and workforce trends.
+
+### 🛒 E-commerce Analytics
+Customer analytics project including **CLTV segmentation, churn prediction, and recommendation insights**.
+
+---
+
+## 🔗 Connect with me
+
+LinkedIn  
+https://linkedin.com/in/sahin-melek
