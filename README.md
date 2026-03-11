@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Melek Şahin 
 
-<!--
-**melek-sahin/melek-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a background in software development and e-commerce analytics.  
+I enjoy turning data into insights that support business decisions.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Analysis
+- Data Visualization
+
+## Featured Projects
+
+🔹 **House Price Prediction – Streamlit App**  
+Machine learning based web application that predicts house prices using user input features.
+
+More projects coming soon:
+- HR Attrition Analytics Dashboard
+- E-commerce Analytics Project
+
+## Connect with me
+
+LinkedIn: https://linkedin.com/in/sahin-melek
+GitHub: https://github.com/melek-sahin
